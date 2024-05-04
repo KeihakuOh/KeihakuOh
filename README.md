@@ -1,12 +1,13 @@
 ### :wave: About me
-#:school: Hello! I'm Shengbo Wang, a student at Waseda University in Japan.  
+# :school: Hello! I'm Shengbo Wang, a student at Waseda University in Japan.  
 
 :octocat: I'm interested in web backend and network security, and I often use Python, Ruby, and C#.  
 
 :blossom: Currently, I am focusing on studying Go and algorithms.
 
 ### :zap:Status
-#<p align="left"> 
+# These are my status.
+<p align="left">    
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>

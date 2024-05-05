@@ -7,7 +7,7 @@
 
 # :zap:Status
 ## Stats
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox" style="flex: 1 0 auto; max-width: 100%;">
 </div>
 <p align="left">    

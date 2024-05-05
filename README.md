@@ -15,8 +15,8 @@
 
   <!-- 二行目: 言語使用統計とGitHub統計 -->
   <div style="width: 100%; display: flex; justify-content: space-around; align-items: center;">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 175px;">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 175px;">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 170px;">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 170px;">
   </div>
 </div>
 

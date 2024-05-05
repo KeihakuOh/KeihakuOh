@@ -8,7 +8,7 @@
 # :zap:Status
 ## Stats
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox" style="flex: 1 0 auto; max-width: 80%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox" style="flex: 1 0 auto; max-width: 100%;">
 </div>
 <p align="left">    
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" />

@@ -7,7 +7,6 @@
 
 # :zap:Status
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keihakuOh&theme=onedark)
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">
@@ -16,8 +15,8 @@
 
   <!-- 二行目: 言語使用統計とGitHub統計 -->
   <div style="width: 100%; display: flex; justify-content: space-around; align-items: center;">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 200px;">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 200px;">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 150px;">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 150px;">
   </div>
 </div>
 

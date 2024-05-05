@@ -7,6 +7,7 @@
 
 # :zap:Status
 ## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keihakuOh&theme=onedark)
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">

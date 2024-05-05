@@ -6,6 +6,8 @@
 :blossom: Currently, I am focusing on studying Go and algorithms.
 
 # :zap:Status
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KeihakuOh)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">    
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" />

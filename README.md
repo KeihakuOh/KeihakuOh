@@ -6,6 +6,16 @@
 :blossom: Currently, I am focusing on studying Go and algorithms.
 
 # :zap:Status
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeihakuOhtheme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeihakuOh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeihakuOh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeihakuOh&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
 <p align="left">    
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" />

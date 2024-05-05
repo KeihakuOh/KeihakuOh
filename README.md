@@ -10,7 +10,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=onedark" style="flex: 1 0 auto; max-width: 100%; min-width: 100%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=onedark" style="flex: 1 0 auto; max-width: 100%; min-width: 100%; height: 300px;">
   </div>
 
   <!-- 二行目: 言語使用統計とGitHub統計 -->

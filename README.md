@@ -7,11 +7,13 @@
 
 # :zap:Status
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox)
-<p align="left">    
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-around;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox" style="flex: 1 1 auto; width: 30%;">
+  <div style="flex: 1 1 auto; width: 60%;">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="width: 100%; height: auto;">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" style="width: 100%; height: auto;">
+  </div>
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeihakuOh&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)

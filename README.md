@@ -6,7 +6,6 @@
 :blossom: Currently, I am focusing on studying Go and algorithms.
 
 # :zap:Status
-## Stats
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">

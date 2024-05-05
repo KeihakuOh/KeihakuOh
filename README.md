@@ -10,7 +10,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox" style="flex: 1 0 auto; max-width: 100%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=gruvbox" style="flex: 1 0 auto; max-width: 100%; min-width: 100%;">
   </div>
 
   <!-- 二行目: 言語使用統計とGitHub統計 -->
@@ -19,6 +19,7 @@
     <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&count_private=true&show_icons=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 200px;">
   </div>
 </div>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeihakuOh&theme=onedark&column=8

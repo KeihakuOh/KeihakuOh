@@ -1,4 +1,4 @@
-# :wave: About me
+# :wave: About Me
 :school: Hello! I'm Shengbo Wang, a student at Waseda University in Japan.  
 
 :computer: I'm interested in web backend and network security, and I often use Python, Ruby, and C#.  

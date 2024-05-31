@@ -3,7 +3,7 @@
 
 :computer: I'm interested in web backend and network security, and I often use Python, Ruby, and C#.  
 
-:blossom: Currently, I am focusing on studying Go and algorithms.
+:blossom: Currently, I am focusing on studying Go and React.
 
 # :zap:Status
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">

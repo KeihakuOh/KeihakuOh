@@ -7,6 +7,11 @@
 
 # :computer: Languages and Skills
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+<p align="center">
   <table>
     <tr>
       <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=c" alt="C"></td>

@@ -5,7 +5,10 @@
 
 :blossom: Currently, I am focusing on studying Go and React.
 
-# :zap:Status
+# :computer: Languages and Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cs,docker,react,vue,git,grafana,html,js,linux,matlab,prometheus,py,pytorch,r,rails,ruby,sqlite,tensorflow,go&perline=5)](https://skillicons.dev)
+
+# :zap: Status
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">

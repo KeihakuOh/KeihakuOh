@@ -8,43 +8,19 @@
 # :computer: Languages and Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,react,html,css,bootstrap" />
   </a>
 </p>
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=c" alt="C"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=cs" alt="C#"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=react" alt="React"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=git" alt="Git"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=py" alt="Python"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=r" alt="R"></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=rails" alt="Rails"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"></td>
-      <td align="center" style="padding: 10px;"><img src="https://skillicons.dev/icons?i=go" alt="Go"></td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,prometheus,grafana,anaconda,go,ruby,rails,git" />
+  </a>
 </p>
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,matlab,r,py,sqlite,pytorch,tensorflow,latex" />
+  </a>
+</p>
 
 # :zap: Status
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">

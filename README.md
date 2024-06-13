@@ -13,12 +13,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,prometheus,grafana,anaconda,go,ruby,rails,git" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,prometheus,grafana,anaconda,go,ruby,rails" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,matlab,r,py,sqlite,pytorch,tensorflow,latex" />
+    <img src="https://skillicons.dev/icons?i=c,matlab,r,py,sqlite,pytorch,tensorflow,git" />
   </a>
 </p>
 

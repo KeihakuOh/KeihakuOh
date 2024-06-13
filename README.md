@@ -6,38 +6,39 @@
 :blossom: Currently, I am focusing on studying Go and React.
 
 # :computer: Languages and Skills
-<div style="display: flex; justify-content: center;">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=c" alt="C"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=cs" alt="C#"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=react" alt="React"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=git" alt="Git"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=py" alt="Python"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=r" alt="R"></td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=rails" alt="Rails"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"></td>
-      <td style="border: none; padding: 10px;"><img src="https://skillicons.dev/icons?i=go" alt="Go"></td>
-    </tr>
-  </table>
-</div>
+<center>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=cs" alt="C#" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" style="padding: 10px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="padding: 10px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=py" alt="Python" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=r" alt="R" style="padding: 10px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=rails" alt="Rails" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="padding: 10px;"></td>
+    <td><img src="https://skillicons.dev/icons?i=go" alt="Go" style="padding: 10px;"></td>
+  </tr>
+</table>
+</center>
+
 
 # :zap: Status
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">

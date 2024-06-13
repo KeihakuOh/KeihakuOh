@@ -22,6 +22,38 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 10px;" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prometheus" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=grafana" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ruby" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rails" style="margin: 10px;" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=r" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" style="margin: 10px;" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" style="margin: 10px;" /></a>
+</p>
+
+
 # :zap: Status
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
   <!-- 一行目: プロファイルサマリーカード -->

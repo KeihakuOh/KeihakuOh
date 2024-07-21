@@ -7,7 +7,7 @@
 
 # :computer: Languages and Skills
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,react,express,html,css,bootstrap,docker,kubernetes,linux,prometheus,grafana,anaconda,go,ruby,rails,c,matlab,r,py,flask,sqlite,postgres,pytorch,tensorflow,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,react,nodejs,express,html,css,bootstrap,docker,kubernetes,linux,prometheus,grafana,anaconda,go,ruby,rails,c,matlab,r,py,flask,sqlite,postgres,pytorch,tensorflow,git" />
 </a>
 
 # :zap: Status

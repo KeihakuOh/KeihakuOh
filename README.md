@@ -5,6 +5,8 @@
 
 :blossom: Currently, I am focusing on studying Go and React.
 
+:star2: To view my portfolio, please visit my [website](https://keihakuoh.github.io/).
+
 # :computer: Languages and Skills
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,vue,react,nextjs,nodejs,express,html,css,bootstrap,docker,kubernetes,linux,prometheus,grafana,anaconda,go,ruby,rails,c,matlab,r,py,flask,sqlite,postgres,pytorch,tensorflow,git" />

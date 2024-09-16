@@ -1,9 +1,9 @@
 # :wave: About Me
 :school: Hello! I'm Shengbo Wang, a student at Waseda University in Japan.  
 
-:computer: I'm interested in web backend and network security, and I often use Python, Ruby, and C#.  
+:computer: I'm interested in web backend development and network security, and I frequently use Python, TypeScript, and Go. 
 
-:blossom: Currently, I am focusing on studying Go and React.
+:blossom: Currently, I am focusing on studying Go and Next.js.
 
 :star2: To view my portfolio, please visit my [website](https://keihakuoh.github.io/).
 

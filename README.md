@@ -28,7 +28,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KeihakuOh&theme=onedark&column=9
+[![trophy](https://github-profile-trophy.vercel.app/?username=KeihakuOh&theme=onedark&column=9&title=-Stars,-Reviews
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 

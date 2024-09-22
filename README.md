@@ -14,17 +14,26 @@
 
 # :zap: Status
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  
   <!-- 一行目: プロファイルサマリーカード -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; height: 400px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeihakuOh&theme=onedark" style="flex: 1 0 auto; max-width: 100%; min-width: 100%; height: 235px;">
   </div>
 
   <!-- 二行目: 言語使用統計とGitHub統計 -->
-  <div style="width: 100%; display: flex; justify-content: space-around; align-items: center;">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="flex: 1 1 50%; height: 195px;">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&show_icons=true&theme=onedark" style="flex: 1 1 100%; height: 195px;">
+  <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeihakuOh&layout=compact&count_private=true&show_icons=true&theme=onedark" style="flex: 1; max-width: 50%; height: 233px;">
+    <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeihakuOh&theme=onedark" style="flex: 1; max-width: 50%; height: 233px;">
   </div>
+  
+  <!-- 三行目: GitHub統計 -->
+  <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=KeihakuOh&show_icons=true&theme=onedark" style="flex: 1; max-width: 50%; height: 200px;">
+    <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeihakuOh&theme=onedark&utcOffset=9" style="flex: 1; max-width: 50%; height: 200px;">
+  </div>
+  
 </div>
+
 
 
 
